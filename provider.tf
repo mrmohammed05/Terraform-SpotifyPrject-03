@@ -9,4 +9,5 @@ terraform {
 
 provider "spotify" {
   api_key="var.api_key"
+  pass_m="121422"
 }
